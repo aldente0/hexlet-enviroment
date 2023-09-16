@@ -1,0 +1,20 @@
+{
+    "name": "al_dente0/enviroment",
+    "description": "Test profect with composer",
+    "version": "0.0.1",
+    "type": "project",
+    "readme": "README.md",
+    "autoload": {
+        "psr-4": {
+            "AlDente0\\Enviroment\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexey Lozhkin",
+            "email": "leha.lozhkin.02@mail.ru",
+            "role": "Developer"
+        }
+    ],
+    "require": {}
+}
