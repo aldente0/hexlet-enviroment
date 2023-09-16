@@ -5,9 +5,9 @@
     "type": "project",
     "readme": "README.md",
     "autoload": {
-        "psr-4": {
-            "Hexlet\\Enviroment\\": "src/"
-        }
+        "files": [
+            "src/Runner.php"
+        ]
     },
     "authors": [
         {
