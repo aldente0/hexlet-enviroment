@@ -6,7 +6,7 @@
     "readme": "README.md",
     "autoload": {
         "psr-4": {
-            "AlDente0\\Enviroment\\": "src/"
+            "Hexlet\\Enviroment\\": "src/"
         }
     },
     "authors": [

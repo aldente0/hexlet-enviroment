@@ -1,6 +1,6 @@
 <?php
 
-namespace AlDente0\Enviroment\Runner;
+namespace Hexlet\Enviroment\Runner;
 
 function run()
 {
